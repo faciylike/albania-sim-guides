@@ -67,3 +67,10 @@ layout: default
 
 　　最后啰嗦一句：网络是为了让旅行更精彩，而不是把你拴在手机上。阿尔巴尼亚的美景、美食和热情的人民，更值得你全身心投入。保持在线，但别忘了真正的生活在屏幕之外。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Albania eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/albania-data-plans)
